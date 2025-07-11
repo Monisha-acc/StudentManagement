@@ -25,5 +25,5 @@ A simple **Java command-line project** to manage student records using **List** 
 
 ---
 
-## 📂 Project Structure
+
 
